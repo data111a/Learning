@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(24, 82, 24) ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: goldenrod;
+}
+
+.play_txt{
+    color: rgb(165, 46, 46);
+}
+
+.title{
+    font-size: 50px;
+}
+
+.play{
+    border-radius: 10px;
+    width: 100px;
+    background-color: brown;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.balance{
+    font-weight: bold;
+    color: aqua;
+}
+
+.add{
+    border-radius: 10px;
+    width: 130px;
+    background-color: brown;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
